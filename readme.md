@@ -4,7 +4,7 @@ O objetivo deste projeto é converter um modelo figma com foco UI/UX em um websi
 
 O projeto foi baseado no desenvolvimento do Youtuber [Jan Marshal](https://www.youtube.com/@janmarshalcoding), onde o modelo figma está anexado neste [link](https://www.figma.com/file/9Wpvgz4EqQRRVCYi0cMJ74/Untitled?type=design&node-id=0-1&mode=design&t=LERnY7oEDJTC3S54-0), bem como no [video](https://www.youtube.com/watch?v=pQ7tm_7S_Us) postado pelo mesmo.
 
-<img src="https://github.com/danielbelle/nextjs-tailwindcss-landing/public/assets/github-photo.png" alt="Projeto" />
+<img src="https://github.com/danielbelle/nextjs-tailwindcss-landing/blob/main/public/assets/github-photo.png" alt="Projeto" />
 
 
 ### Tecnologias Utilizadas
