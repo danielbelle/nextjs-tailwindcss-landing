@@ -4,7 +4,7 @@ O objetivo deste projeto é converter um modelo figma com foco UI/UX em um websi
 
 O projeto foi baseado no desenvolvimento do Youtuber [Jan Marshal](https://www.youtube.com/@janmarshalcoding), onde o modelo figma está anexado neste [link](https://www.figma.com/file/9Wpvgz4EqQRRVCYi0cMJ74/Untitled?type=design&node-id=0-1&mode=design&t=LERnY7oEDJTC3S54-0), bem como no [video](https://www.youtube.com/watch?v=pQ7tm_7S_Us) postado pelo mesmo.
 
-[![](https://mermaid.ink/img/pako:eNpVkE1uwjAQha9izapIZFGWWVSCBFZUVCq7mMXInjSW_Fdji6Ikp2HRg3CxmmRDZzV633uj0etBOElQQqvdRXQYIjvW3LI862bttRJ4_73fHHs9saJ4GwJ9JzrHgW1enulqMWc2DxOr-u0PGa_dOKvVFD1YGljd7NFH50_P5HhxA9s26qNzlv6TLlBO7ZoWyxYLgYFVGCYLLMFQMKhk_r5_KBxiR4Y4lHmV1GLSkQO3Y7Ziiu7zagWUMSRaQvISI9UKvwIayLf1OaskVXThfW5kKmb8AyAeX3o?type=png)](https://mermaid.live/edit#pako:eNpVkE1uwjAQha9izapIZFGWWVSCBFZUVCq7mMXInjSW_Fdji6Ikp2HRg3CxmmRDZzV633uj0etBOElQQqvdRXQYIjvW3LI862bttRJ4_73fHHs9saJ4GwJ9JzrHgW1enulqMWc2DxOr-u0PGa_dOKvVFD1YGljd7NFH50_P5HhxA9s26qNzlv6TLlBO7ZoWyxYLgYFVGCYLLMFQMKhk_r5_KBxiR4Y4lHmV1GLSkQO3Y7Ziiu7zagWUMSRaQvISI9UKvwIayLf1OaskVXThfW5kKmb8AyAeX3o)
+[![]("C:\Users\Daniel\Desktop\dev\nextjs-tailwind-ts-landing\public\assets\github-photo.png")
 
 
 ### Tecnologias Utilizadas
