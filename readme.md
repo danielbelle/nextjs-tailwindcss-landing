@@ -9,7 +9,7 @@ O projeto foi baseado no desenvolvimento do Youtuber [Jan Marshal](https://www.y
 
 ### Tecnologias Utilizadas
 
-Neste projeto utilizei Next.js, React, Tailwind CSS, TypeScript e Figma.
+Neste projeto utilizei Next.js, React, Tailwind CSS, TypeScript, Radix-UI React Accordion e Figma.
 
 Exemplo:
 * [Next.js](https://nextjs.org/)
@@ -17,13 +17,15 @@ Exemplo:
 * [Tailwind CSS](https://tailwindcss.com/)
 * [TypeScript](https://www.typescriptlang.org/)
 * [Figma](https://www.figma.com/)
+* [Radix-UI React Accordion](https://www.radix-ui.com/primitives/docs/components/accordion)
 
 ## Dependências e Versões Necessárias
 
 * Next.js - Versão: 14.1.4
 * React - Versão: 18+
 * Tailwind CSS - Versão: 3.3.0
-* TypeScript - Versão 5+
+* TypeScript - Versão: 5+
+* Radix-UI React Accordion - Versão: 1.1.2+
 
 ## Como rodar o projeto ✅ EM CONSTRUÇÃO
 
