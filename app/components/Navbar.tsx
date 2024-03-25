@@ -66,10 +66,9 @@ export function Navbar() {
             />
             <li className="lg:hidden pl-[74px]">
               {navLinks.map((item, index) => (
-                <Link href={item.link} scroll={true}>
+                <Link href={item.link} scroll={true} key={index}>
                   <p
                     className="text-[#36485C] mt-5 text-lg font-medium cursor-pointer hover:text-stone-400"
-                    key={index}
                     onClick={() => setNavbar(!navbar)}
                   >
                     {item.name}
