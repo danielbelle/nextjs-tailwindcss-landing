@@ -31,21 +31,27 @@ Exemplo:
 
 ## Como rodar o projeto ✅ EM CONSTRUÇÃO
 
-Descreva o passo a passo necessário para rodar sua aplicação. Lembre-se: a pessoa nunca rodou seu projeto. Não tenha medo de detalhar o máximo possível. Isso é necessário!
+Primeiramente baixe o repositório deste GitHub e abra seu editor de código na pasta raiz.
 
-Uma boa forma de descrever o passo a passo é:
+Assim, no terminal rode o comando:
 
 ```
-Comando 1
+npm run dev
 ```
 
 Depois, rode o seguinte comando:
 
 ```
-Comando 2
+npm run dev
 ```
 
-Deixe claro como a pessoa pode confirmar que a aplicação está rodando da forma correta. Pode ser com prints ou a mensagem que ela deve esperar.
+Dessa forma, irá aparecer o link para o localhost:
+
+```
+http://localhost:3000
+```
+
+<img src="https://github.com/danielbelle/nextjs-tailwindcss-landing/blob/main/public/assets/github-install.png" alt="Projeto" />
 
 
 
