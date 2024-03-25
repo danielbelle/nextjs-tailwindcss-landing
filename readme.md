@@ -18,6 +18,7 @@ Exemplo:
 * [TypeScript](https://www.typescriptlang.org/)
 * [Figma](https://www.figma.com/)
 * [Radix-UI React Accordion](https://www.radix-ui.com/primitives/docs/components/accordion)
+* [React Icons](https://react-icons.github.io/react-icons/)
 
 ## Dependências e Versões Necessárias
 
@@ -26,6 +27,7 @@ Exemplo:
 * Tailwind CSS - Versão: 3.3.0
 * TypeScript - Versão: 5+
 * Radix-UI React Accordion - Versão: 1.1.2+
+* React Icons - Versão: 5.0.1+
 
 ## Como rodar o projeto ✅ EM CONSTRUÇÃO
 
@@ -64,7 +66,7 @@ O modo que o Jan resolvia o problema proposto foi muito interessante, já ouvi m
 
 ## ⚠️ Problemas enfrentados EM CONSTRUÇÃO
 
-Liste os problemas que você enfrentou construindo a aplicação e como você resolveu cada um deles. Você que desenvolveu o projeto é a pessoa que mais conhece/entende os possíveis problemas que uma pessoa pode enfrentar rodando a aplicação. Compartilhe esse conhecimento e facilite a vida da pessoa descrevendo-os.
+Um problema muito bom que enfrentei foi a utilização do mobile first, só que isso foi um game change, porque uma vez que o mobile/responsivo está pronto, fica muito fácil para adaptar a página para dispositivos maiores.
 
 Exemplo:
 

@@ -34,7 +34,7 @@ const items = [
 
 export function Faq() {
   return (
-    <div className="flex flex-col w-full py-[48px] lg:py-[60px] lg:flex-row lg:gap-x-6">
+    <div id="faq" className="flex flex-col w-full py-[48px] lg:py-[60px] lg:flex-row lg:gap-x-6">
       <div className="lg:w-1/3 lg:py-[32px] lg:pr-[56px]">
         <h3 className="text-[#EB2891] text-[14px] font-medium lg:text-base">
           Frequently Asked Questions
