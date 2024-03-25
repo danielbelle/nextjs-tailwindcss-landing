@@ -1,4 +1,6 @@
 import Image from "next/image";
+import Link from "next/link";
+
 import BlurArrow from "../../public/assets/blue-button.svg";
 import Gradient from "../../public/assets/Gradient.svg";
 import HeroImage from "../../public/assets/Image.svg";
@@ -23,13 +25,17 @@ export function Hero() {
 
         <div className="flex w-full pt-8 justify-center gap-x-6 ">
           <button className="bg-[#4328EB] w-1/2 py-4 px-8 text-white rounded-[4px] lg:w-fit">
-            Try for free
+            <Link href="/#cta" scroll={true}>
+              Try for free
+            </Link>
           </button>
-          <button className="w-1/2 text-[#4328EB] flex items-center justify-center gap-x-2 lg:w-fit">
-            View Pricing
-            <span>
-              <Image src={BlurArrow} alt="Learn more" />
-            </span>
+          <button className="w-1/2 text-[#4328EB] gap-x-2 lg:w-fit">
+            <Link href="/#pricing" scroll={true} className="flex items-center justify-center">
+              View Pricing
+              <span className="ml-2">
+                <Image src={BlurArrow} alt="Learn more" />
+              </span>
+            </Link>
           </button>
         </div>
       </div>
@@ -38,7 +44,7 @@ export function Hero() {
         <Image
           src={Gradient}
           alt="Gradient"
-          className="min-h-[500px] w-full object-cover lg:h-auto"
+          className="min-h-[500px] w-full object-cover lg:h-auto mt-5"
         />
 
         <div className="absolute bottom-5 flex w-full flex-col items-center">

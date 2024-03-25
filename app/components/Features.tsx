@@ -1,4 +1,6 @@
 import Image from "next/image";
+import Link from "next/link";
+
 import Feature1 from "../../public/assets/feature-1.svg";
 import Feature2 from "../../public/assets/feature-2.svg";
 import Feature3 from "../../public/assets/feature-3.svg";
@@ -9,7 +11,10 @@ import pinkButton from "../../public/assets/pink-button.svg";
 
 export function Features() {
   return (
-    <div id="features" className="flex flex-col gap-y-[56px] py-[56px] lg:py-[120px] lg:gap-y-[80px] ">
+    <div
+      id="features"
+      className="flex flex-col gap-y-[56px] py-[56px] lg:py-[120px] lg:gap-y-[80px] "
+    >
       <div className="flex flex-col gap-x-6 sm:flex-row-reverse">
         <Image
           src={Feature1}
@@ -56,10 +61,12 @@ export function Features() {
           </ul>
 
           <p className="flex items-center gap-x-2 pt-[24px] font-medium text-[#0085FF] lg:text-[18px]">
-            Learn More
-            <span>
-              <Image src={bluebutton} alt="Learn more" />
-            </span>
+            <Link href="/#faq" className="flex items-center justify-center">
+              Learn More
+              <span className="ml-2">
+                <Image src={bluebutton} alt="Learn more" />
+              </span>
+            </Link>
           </p>
         </div>
       </div>
@@ -110,10 +117,12 @@ export function Features() {
           </ul>
 
           <p className="flex items-center gap-x-2 pt-[24px] font-medium text-[#00A424] lg:text-[18px]">
-            Learn More
-            <span>
-              <Image src={greenButton} alt="Learn more" />
-            </span>
+            <Link href="/#faq" className="flex items-center justify-center">
+              Learn More
+              <span className="ml-2">
+                <Image src={greenButton} alt="Learn more" />
+              </span>
+            </Link>
           </p>
         </div>
       </div>
@@ -154,10 +163,12 @@ export function Features() {
           </div>
 
           <p className="flex items-center gap-x-2 pt-[24px] font-medium text-[#EB2891] lg:text-[18px]">
-            Learn More
-            <span>
-              <Image src={pinkButton} alt="Learn more" />
-            </span>
+            <Link href="/#faq" className="flex items-center justify-center">
+              Learn More
+              <span className="ml-2">
+                <Image src={pinkButton} alt="Learn more" />
+              </span>
+            </Link>
           </p>
         </div>
       </div>

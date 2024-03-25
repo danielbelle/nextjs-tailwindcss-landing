@@ -48,36 +48,32 @@ Comando 2
 Deixe claro como a pessoa pode confirmar que a aplicação está rodando da forma correta. Pode ser com prints ou a mensagem que ela deve esperar.
 
 
-## 📌 (Título) - Informações importantes sobre a aplicação (exemplo) 📌 EM CONSTRUÇÃO
 
-Esse é o local para você preencher com outras informações que possam ser importantes para a aplicação. Coloquei um exemplo de título, mas você deve preencher de acordo com a necessidade do projeto. Pode ser que não seja necessário.
-
-Um bom exemplo: se você estiver construindo uma API, liste as rotas da aplicação e quais serão os seus retornos. Isso facilita para quem vai consumir a API.
-
-
-## 🧠 Habilidades, conhecimentos e experiências retidas EM CONSTRUÇÃO
+## 🧠 Habilidades, conhecimentos e experiências retidas
 
 ### Mobile First
 O modo que o Jan resolvia o problema proposto foi muito interessante, já ouvi muito falar em mobile first, mas uma prática que ele me induziu foi a resolução primeiramente em mobile e posteriormente ajustar para dispositivos de maiores dimensões. Além de que utilizando o Tailwind CSS, pensar no mobile first aumenta consideravelmente a produtividade.
 
-##
+## Utilização do Next.js e TypeScript
+Achei muito interessante o uso do Next.js principalmente por conta que fornece uma configuração inicial pronta para uso que abrange muitos dos requisitos comuns do desenvolvimento web moderno e o suporte nativo ao TypeScript, o que pode facilitar a adoção dessa linguagem de programação.
+
+## Utilização da biblioteca Radix-UI React Accordion
+Ficou muito legal a utilização desta biblioteca no elemento faq, pois ela apresenta diversos textos minimizados onde o desenvolvedor pode escolher se apresenta apenas um ou mais e assim possibilitando que o elemento não precise de uma página nova e específica, ou seja, ficando apenas single page application.
 
 
-
-## ⚠️ Problemas enfrentados EM CONSTRUÇÃO
+## ⚠️ Problemas enfrentados
 
 Um problema muito bom que enfrentei foi a utilização do mobile first, só que isso foi um game change, porque uma vez que o mobile/responsivo está pronto, fica muito fácil para adaptar a página para dispositivos maiores.
 
 Exemplo:
 
-### Problema 1:
-Descrição do problema
-* Como solucionar: explicar a solução.
+### Links de navegação na página:
+Tive dificuldade com a utilização da biblioteca React-Scroll na criação de links para navegação dentro da própria página. 
+* Como solucionar: Melhor solução foi o uso da biblioteca interna do next/links.
 
-### Problema 2:
-Descrição do problema
-* Como solucionar: explicar a solução.
 
-## ⏭️ Próximos passos EM CONSTRUÇÃO
+## ⏭️ Próximos passos:
 
-Descreva se você pretende, pensou ou gostaria de elaborar uma nova feature para o seu projeto definindo os próximos passos.
+### Adicionar opção para o usuário criar conta e fazer login. 
+
+### Adicionar página de compras e sacola para acompanhar itens de interesse.

@@ -1,6 +1,7 @@
 "use client";
 import { useState } from "react";
 import Link from "next/link";
+
 import Image from "next/image";
 import Logo from "../../public/assets/Logo.svg";
 import User from "../../public/assets/User.svg";
@@ -54,7 +55,7 @@ export function Navbar() {
         <ul
           className={
             navbar
-              ? "fixed z-10 left-0 top-0 w-[30%] h-full border-r border-r-gray-300 bg-[#FFF] ease-in-out duration-500 lg:hidden"
+              ? "fixed z-10 left-0 top-0 w-[45%] h-full border-r border-r-gray-300 bg-[#FFF] ease-in-out duration-500 lg:hidden"
               : "ease-in-out duration-500 fixed left-[-100%]"
           }
         >
