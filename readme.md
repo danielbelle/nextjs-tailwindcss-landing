@@ -54,10 +54,10 @@ Deixe claro como a pessoa pode confirmar que a aplicação está rodando da form
 ### Mobile First
 O modo que o Jan resolvia o problema proposto foi muito interessante, já ouvi muito falar em mobile first, mas uma prática que ele me induziu foi a resolução primeiramente em mobile e posteriormente ajustar para dispositivos de maiores dimensões. Além de que utilizando o Tailwind CSS, pensar no mobile first aumenta consideravelmente a produtividade.
 
-## Utilização do Next.js e TypeScript
+### Utilização do Next.js e TypeScript
 Achei muito interessante o uso do Next.js principalmente por conta que fornece uma configuração inicial pronta para uso que abrange muitos dos requisitos comuns do desenvolvimento web moderno e o suporte nativo ao TypeScript, o que pode facilitar a adoção dessa linguagem de programação.
 
-## Utilização da biblioteca Radix-UI React Accordion
+### Utilização da biblioteca Radix-UI React Accordion
 Ficou muito legal a utilização desta biblioteca no elemento faq, pois ela apresenta diversos textos minimizados onde o desenvolvedor pode escolher se apresenta apenas um ou mais e assim possibilitando que o elemento não precise de uma página nova e específica, ou seja, ficando apenas single page application.
 
 
@@ -65,7 +65,6 @@ Ficou muito legal a utilização desta biblioteca no elemento faq, pois ela apre
 
 Um problema muito bom que enfrentei foi a utilização do mobile first, só que isso foi um game change, porque uma vez que o mobile/responsivo está pronto, fica muito fácil para adaptar a página para dispositivos maiores.
 
-Exemplo:
 
 ### Links de navegação na página:
 Tive dificuldade com a utilização da biblioteca React-Scroll na criação de links para navegação dentro da própria página. 
