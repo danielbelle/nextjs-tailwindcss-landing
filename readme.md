@@ -28,14 +28,14 @@ Neste projeto utilizei Next.js, React, Tailwind CSS, TypeScript, Radix-UI React 
 * Radix-UI React Accordion - Versão: 1.1.2+
 * React Icons - Versão: 5.0.1+
 
-## Como rodar o projeto ✅ EM CONSTRUÇÃO
+## Como rodar o projeto ✅ 
 
 Primeiramente baixe o repositório deste GitHub e abra seu editor de código na pasta raiz.
 
 Assim, no terminal rode o comando:
 
 ```
-npm run dev
+npm install
 ```
 
 Depois, rode o seguinte comando:
@@ -52,6 +52,8 @@ http://localhost:3000
 
 <img src="https://github.com/danielbelle/nextjs-tailwindcss-landing/blob/main/public/assets/github-install.png" alt="Projeto" />
 
+
+Você também pode fazer deploy gratuito do projeto no site [Vercel](https://vercel.com/) seguindo este [tutorial](https://www.youtube.com/watch?v=e_92Fz99q18).
 
 
 ## 🧠 Habilidades, conhecimentos e experiências retidas
