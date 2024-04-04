@@ -11,7 +11,6 @@ O projeto foi baseado no desenvolvimento do Youtuber [Jan Marshal](https://www.y
 
 Neste projeto utilizei Next.js, React, Tailwind CSS, TypeScript, Radix-UI React Accordion e Figma.
 
-Exemplo:
 * [Next.js](https://nextjs.org/)
 * [React](https://react.dev/)
 * [Tailwind CSS](https://tailwindcss.com/)
